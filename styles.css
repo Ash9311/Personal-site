@@ -111,6 +111,12 @@ PADDING: 50PX 0 20PX;
   margin-right: 30px;
 }
 
+.dp-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
 .wd-img{
   width:25%;
   float:right;
